@@ -13,3 +13,5 @@ https://www.coursera.org/specializations/deep-learning
 google search, github
 # my feeling
 Course 5 is a little bit itchy :laughing:
+# author
+Lam Ha
