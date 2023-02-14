@@ -1,17 +1,26 @@
 # deep-learning-coursera
 This project contains all my assignments from Deep Learning Specialization by prof Andrew Ng
-# description
+
+## description
  1. Neural Network and Deep Learning
  2. Improving Deep Neural Networks-Hyperparameter tuning, Regularization and Optimization
  3. Convolutional Neural Network
  5. Sequence Models
 
 This includes purely python assignments not quizzes. So course 3 will not be included
-# references
+
+## references
 https://www.coursera.org/specializations/deep-learning
-# sponsors
-google search, github
-# my feeling
+
+## sponsors
+- google search
+- github
+
+## my feeling
 Course 5 is a little bit itchy :laughing:
-# author
-Lam Ha
+
+---
+## Author
+
+This repo was developed by [@lamha](https://github.com/HaLamUs). 
+Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/lamhacs). 
